@@ -14,3 +14,9 @@ Past presentations
 * [MAGIC Interferometry performance paper (A. Cifuentes, 2023)](https://indico.mpp.mpg.de/event/9671/contributions/34927/attachments/19534/24276/MAGIC_GM_SII_performance.pdf)
 * [MAGIC Intensity Interferometry: Latest developments and future plans (A. Cifuentes, 2023)](https://indico.mpp.mpg.de/event/9671/contributions/34976/attachments/19538/24289/SII_upgrades_and_future_plans.pdf)
 
+
+Useful papers
+=============
+
+Remember that if some of these papers are behind pay walls, **you should never use [Sci Hub](https://sci-hub.se/)**. That would be ilegal.
+* [An introduction to visibility modelling (J. P. Berger & D. Segransan, 2007)](https://ui.adsabs.harvard.edu/link_gateway/2007NewAR..51..576B/doi:10.1016/j.newar.2007.06.003)
