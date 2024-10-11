@@ -18,7 +18,7 @@ Past presentations
 * [Interferometry: instrumental developments (J. Cortina, 2023)](https://indico.mpp.mpg.de/event/9531/contributions/34142/attachments/19316/23963/MAGIC_GM_II_instrumentation_JCortina2.pdf)
 * [MAGIC Interferometry performance paper (A. Cifuentes, 2023)](https://indico.mpp.mpg.de/event/9671/contributions/34927/attachments/19534/24276/MAGIC_GM_SII_performance.pdf)
 * [MAGIC Intensity Interferometry: Latest developments and future plans (A. Cifuentes, 2023)](https://indico.mpp.mpg.de/event/9671/contributions/34976/attachments/19538/24289/SII_upgrades_and_future_plans.pdf)
-* [Updates on Stellar Intensity Interferometry (I. Jiménez Martínez, 2024](https://indico.mpp.mpg.de/event/10012/contributions/37386/)
+* [Updates on Stellar Intensity Interferometry (I. Jiménez Martínez, 2024)](https://indico.mpp.mpg.de/event/10012/contributions/37386/)
 
 
 
@@ -29,7 +29,7 @@ Remember that if some of these papers are behind pay walls, **you should never u
 * [Performance and first measurements of the MAGIC stellar intensity interferometer (MAGIC Collaboration, 2024)](https://doi.org/10.1093/mnras/stae697)
 * [Optical intensity interferometry observations using the MAGIC Imaging Atmospheric Cherenkov Telescopes (MAGIC Collaboration, 2019](https://doi.org/10.1093/mnras/stz3171)
 * [Investigating the accuracy achievable in reconstructing the angular sizes of stars through stellar intensity interferometry observations(Fiori M., Naletto G., Zampieri L., Martínez I. J., & Wunderlich C.,2022)](https://www.aanda.org/articles/aa/abs/2022/10/aa44094-22/aa44094-22.html)
-* [Update on the performance of the MAGIC Intensity Interferometer (I. Jiménez Martínez, 2023](https://www.research-collection.ethz.ch/handle/20.500.11850/653294)
+* [Update on the performance of the MAGIC Intensity Interferometer (I. Jiménez Martínez, 2023)](https://www.research-collection.ethz.ch/handle/20.500.11850/653294)
 * [Performance of MAGIC stellar intensity interferometer and expansion to MAGIC + CTAO-LST1 stellar intensity interferometer (A. Cifuentes, 2024)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13095/1309527/Performance-of-MAGIC-stellar-intensity-interferometer-and-expansion-to-MAGIC/10.1117/12.3016905.full)
 
 * [An introduction to visibility modelling (J. P. Berger & D. Segransan, 2007)](https://ui.adsabs.harvard.edu/link_gateway/2007NewAR..51..576B/doi:10.1016/j.newar.2007.06.003)
