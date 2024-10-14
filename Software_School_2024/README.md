@@ -28,6 +28,10 @@ Meant as first contact, to check if people were prepared to follow the school. F
 Lesson 1
 --------
 
-Will focus on accessing interferometry data. List of topics we will cover:
+Will focus on the first step of the analysis: handling raw interferometry data. Mainly it will cover:
 
-* Understanding 
+* Understanding `magic_spysii` data structure.
+* Understanding the content of raw interferometry data.
+* Learn how to check the content of a raw file.
+* Learn how to synchronize data, copying raw files and camera reports to your $MAGICSIIDATA folder.
+* Learn how to reduce raw data.
