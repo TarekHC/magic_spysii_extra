@@ -23,7 +23,7 @@ Lessons summary
 Lesson 0
 --------
 
-Meant as first contact, to check if people were prepared to follow the school. Few [slides were presented](Software_School_2024/20241009_lesson0_introduction.pdf). We quickly reviewed what an intensity interferometry analysis essentially means, and the different kinds of data you may find in the archive. People were reminded
+Meant as first contact, to check if people were prepared to follow the school. Few [slides were presented](20241009_lesson0_introduction.pdf). We quickly reviewed what an intensity interferometry analysis essentially means, and the different kinds of data you may find in the archive. People were reminded
 
 Lesson 1
 --------
