@@ -4,6 +4,7 @@ The objective of this folder is to gather the links to the different past presen
 
 Useful links
 ============
+* [Public website containing magic_spysii documentation](https://tarekhc.github.io/magic_spysii/).
 * [Main interferometry wiki](https://wiki.magic.pic.es/index.php/Intensity_Interferometry), describing the evolution of the setup.
 * [How to take interferometry data](https://wiki.magic.pic.es/index.php/Interferometry_procedure)
 * [Performance paper wiki, describing in a bit more detail the analysis](https://wiki.magic.pic.es/index.php/Intensity_Interferometry_performance_paper)
