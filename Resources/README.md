@@ -2,6 +2,15 @@
 
 The objective of this folder is to gather the links to the different past presentations that were given on the topic. Also relevant papers useful for understanding the technique and the related science may be added here.
 
+Useful links
+============
+* [Main interferometry wiki](https://wiki.magic.pic.es/index.php/Intensity_Interferometry), describing the evolution of the setup.
+* [How to take interferometry data](https://wiki.magic.pic.es/index.php/Interferometry_procedure)
+* [Performance paper wiki, describing in a bit more detail the analysis](https://wiki.magic.pic.es/index.php/Intensity_Interferometry_performance_paper)
+* A bit of discussion on [the physics one can do with MAGIC-SII](https://wiki.magic.pic.es/index.php/Interferometry_physics)
+
+
+
 Past presentations
 ==================
 
